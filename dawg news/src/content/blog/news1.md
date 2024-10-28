@@ -1,6 +1,7 @@
 ---
-title: Google is reportedly developing a ‘computer-using agent’ AI system
-pubDate: Oct 27, 2024
+title: "Google is reportedly developing a ‘computer-using agent’ AI system"
+description: "Project Jarvis would take over a web browser to carry out tasks on users’ behalf."
+pubDate: "Oct 27, 2024"
 ---
 Google could preview its own take on Rabbit’s large action model concept as soon as December, reports The Information. “Project Jarvis,” as it’s reportedly codenamed, would carry tasks out for users, including “gathering research, purchasing a product, or booking a flight,” according to three people the outlet spoke with who have direct knowledge of the project.
 
